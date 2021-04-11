@@ -1,0 +1,12 @@
+{
+  "name": "atividade_pam2",
+  "displayName": "atividade_pam2",
+  "expo": {
+    "name": "atividade_pam2",
+    "slug": "atividade_pam2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
